@@ -7,3 +7,5 @@ void:
     key(space)
 clap:
     key(enter)
+scratcher:
+    key(ctrl-backspace)
